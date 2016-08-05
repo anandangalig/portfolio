@@ -1,19 +1,20 @@
 .img1 {
   width: 80%;
-  margin-left: 10%;
-  border-radius: 25%;
-  margin-top: 10px;
+  margin: 10%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  border-radius: 10px;
   border: 1px solid grey;
 }
 
 .projects {
   font-family:serif;
   text-align: center;
-  margin: 5%;
+  margin: auto;
 }
 
 body {
-  background-color: #D6F5FF;
+  background-color: #FEFBF7;
 }
 
 .tools{
@@ -31,10 +32,11 @@ body {
   font-style: italic;
   font-family: verdana;
   font-weight: lighter;
+  margin-top: 3%;
 }
 
 .mypic {
-  width: 15%;
+  width: 30%;
   height: auto;
   border-radius: 50%;
   float: left;
@@ -42,13 +44,8 @@ body {
   margin-top: auto;
 }
 
-.jumbotron {
-  margin: 40px;
-  border: 1px solid grey;
-  border-radius: 5px;
-  padding: 10px;
-}
-
-#aboutme {
-  margin-left: 85px;
+.row {
+  margin: 10%;
+  margin-top: 0;
+  margin-bottom: 5%;
 }
