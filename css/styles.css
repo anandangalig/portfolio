@@ -1,0 +1,32 @@
+.img1 {
+  width: 80%;
+  margin-left: 10%;
+  border-radius: 25%;
+  float: left;
+  margin-top: 10px;
+}
+
+.projects {
+  font-family:serif;
+}
+
+body {
+  background-color: #D6F5FF;
+}
+
+.tools{
+  font-style:italic;
+  color: blue
+}
+
+.container {
+  color: #2E5BB2;
+  text-shadow: 1px 1px blue;
+  border: 1px solid blue;
+  background-color: #74A3FF;
+  border-radius: 10px;
+  text-align: center;
+  font-style: italic;
+  font-family: verdana;
+  font-weight: lighter;
+}
