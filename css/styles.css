@@ -1,16 +1,17 @@
 .img1 {
   width: 80%;
   margin: 10%;
-  margin-bottom: 5%;
-  margin-top: 5%;
+  margin-bottom: 10%;
+  margin-top: 0;
   border-radius: 10px;
   border: 1px solid grey;
 }
 
 .projects {
-  font-family:serif;
+  font-family: 'Oswald', sans-serif;
   text-align: center;
   margin: auto;
+  font-size: 18px;
 }
 
 body {
@@ -20,19 +21,6 @@ body {
 .tools{
   font-style:italic;
   color: blue
-}
-
-.container {
-  color: darkblue;
-  text-shadow: 1px 1px #FFF;
-  border: 1px solid grey;
-  background-color: #74A3FF;
-  border-radius: 5px;
-  text-align: center;
-  font-style: italic;
-  font-family: verdana;
-  font-weight: lighter;
-  margin-top: 3%;
 }
 
 .mypic {
@@ -48,4 +36,19 @@ body {
   margin: 10%;
   margin-top: 0;
   margin-bottom: 5%;
+}
+
+#contact {
+  font-family: 'Oswald', sans-serif;
+  float: right;
+}
+
+#link {
+  float: right;
+  margin: 15px;
+}
+
+#name {
+  font-size: 25px;
+  padding-left: 50px;
 }
