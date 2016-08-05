@@ -2,12 +2,13 @@
   width: 80%;
   margin-left: 10%;
   border-radius: 25%;
-  float: left;
   margin-top: 10px;
+  border: 1px solid grey;
 }
 
 .projects {
   font-family:serif;
+  text-align: center;
 }
 
 body {
@@ -20,9 +21,9 @@ body {
 }
 
 .container {
-  color: #2E5BB2;
-  text-shadow: 1px 1px blue;
-  border: 1px solid blue;
+  color: darkblue;
+  text-shadow: 1px 1px #FFF;
+  border: 1px solid grey;
   background-color: #74A3FF;
   border-radius: 10px;
   text-align: center;
