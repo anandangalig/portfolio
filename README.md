@@ -6,7 +6,7 @@
 
 ## Description
 
-_While attending Epicodus bootcamp, I created several sample web pages for practice. This portfolio includes some it._
+_While attending Epicodus bootcamp, I created several sample web pages for practice. This portfolio includes some of it._
 
 ## Setup/Installation Requirements
 
@@ -30,4 +30,5 @@ _Besides HTML and CSS, I used Bootstrap to design some parts of this page._
 ### License
 
 Copyright (c) 2016 **_Anand Angalig_**
-_This web page is licensed under the MIT license.
+
+_This web page is licensed under the MIT license._
